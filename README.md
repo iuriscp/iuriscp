@@ -18,6 +18,15 @@ Me chamo Iuri grossi de lima, tenho 28 anos e sou natural de Santa cruz das palm
 
 <img 
     align="left" 
+    alt="Nodejs" 
+    title="Nodejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"          
+/>  
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
